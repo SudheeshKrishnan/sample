@@ -1,2 +1,3 @@
 # sample
-samplecodes
+samplecode
+This is a sample project code
